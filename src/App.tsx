@@ -137,7 +137,7 @@ const LoginView = ({ onLogin, loading }) => {
                 type="email" 
                 value={email}
                 onChange={(e) => setEmail(e.target.value)}
-                placeholder="degenerate@trader.com"
+                placeholder="Enter your email address"
                 className="w-full bg-[#0a0a0a] text-white px-6 py-4 rounded-xl border border-[#333] focus:border-[#ccff00] focus:ring-1 focus:ring-[#ccff00] outline-none transition-all font-mono placeholder:text-gray-700"
                 onKeyDown={(e) => e.key === 'Enter' && email && onLogin(email)}
               />
