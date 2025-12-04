@@ -1,3 +1,5 @@
+// @ts-ignore
+declare var __initial_auth_token: any;
 import React, { useState, useEffect, useMemo } from 'react';
 import { 
   TrendingUp, 
