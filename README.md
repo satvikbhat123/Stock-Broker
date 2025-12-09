@@ -37,7 +37,8 @@ Make sure you have the following installed:
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/RGS06/stock_dashboard.git](https://github.com/RGS06/stock_dashboard.git)
+    git clone git clone https://github.com/satvikbhat123/stock_dashboard.git
+
     cd stock_dashboard
     ```
 
